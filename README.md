@@ -15,4 +15,4 @@ optional arguments:
   -h, --help      - show this help message and exit
   
 Example:
-![img](https://github.com/OrderOfSixAngles/OrderOfSixAngles.github.io/blob/master/assets/images/permissions.png)
+![img](https://github.com/thatskriptkid/thatskriptkid.github.io/blob/master/assets/images/permissions.png)
